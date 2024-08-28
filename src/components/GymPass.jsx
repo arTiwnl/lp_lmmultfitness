@@ -14,12 +14,7 @@ export default function GymPass (){
 
        
 
-        <a
-          href="#"
-          className="mt-8 inline-block rounded bg-yellow-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-yellow-500 focus:outline-none focus:ring focus:ring-yellow-400"
-        >
-          Get Started Today
-        </a>
+       
       </div>
 
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-2">
