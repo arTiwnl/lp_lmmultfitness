@@ -13,7 +13,7 @@ export default function QuemSomos (){
       </div>
 
       <div className="lg:py-24">
-        <h2 className="text-3xl font-bold sm:text-4xl">Quem Somos</h2>
+        <h2 className="text-3xl font-bold sm:text-4xl">Sobre Nós</h2>
 
         <p className="mt-4 text-gray-600">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
@@ -21,12 +21,7 @@ export default function QuemSomos (){
           quidem quam repellat.
         </p>
 
-        <a
-          href="#"
-          className="mt-8 inline-block rounded bg-yellow-400 px-12 py-3 text-sm font-medium text-black transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
-        >
-          Agende sua aula experimental
-        </a>
+       
       </div>
     </div>
   </div>
