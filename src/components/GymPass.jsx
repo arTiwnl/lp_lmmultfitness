@@ -21,14 +21,14 @@ export default function GymPass (){
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-2">
 
       <a
-          className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
+          className="opacity-85 block rounded-xl border border-gray-900 p-4 shadow-sm hover:border-gray-500 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
           href="#"
         >
               <img className="" src={TotalPassLogo} alt="Gympass Logo" />
         </a>
 
         <a
-          className="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-gray-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
+          className="opacity-85 block rounded-xl border border-gray-900 p-4 shadow-sm hover:border-gray-500 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
           href="#"
         >
               <img className="" src={GympassLogo} alt="TotalPass Logo" />
