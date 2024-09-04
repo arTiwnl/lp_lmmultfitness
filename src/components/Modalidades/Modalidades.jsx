@@ -6,7 +6,7 @@ export default function Modalidades (){
 
 
 <section>
-  <div className="max-w-screen-xl px-4 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-24 ">
+  <div className="max-w-screen-xl px-6 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-24 ">
     <div className="grid grid-cols-1 gap-y-8  lg:items-center lg:gap-x-16">
 
 
@@ -15,11 +15,11 @@ export default function Modalidades (){
 
 
 
-          <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
+          <div class="max-w-sm bg-white border border-gray-200 rounded-3xl shadow ">
               <a href="#">
                   <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
               </a>
-              <div class="p-5">
+              <div class="p-8">
                   <a href="#">
                       <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Pilates</h5>
                   </a>
@@ -34,11 +34,11 @@ export default function Modalidades (){
           </div>
 
 
-          <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
+          <div class="max-w-sm bg-white border border-gray-200 rounded-3xl  shadow ">
               <a href="#">
                   <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
               </a>
-              <div class="p-5">
+              <div class="p-8">
                   <a href="#">
                       <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Funcional de Studio</h5>
                   </a>
@@ -52,11 +52,11 @@ export default function Modalidades (){
               </div>
           </div>
 
-          <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
+          <div class="max-w-sm bg-white border border-gray-200 rounded-3xl  shadow ">
               <a href="#">
                   <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
               </a>
-              <div class="p-5">
+              <div class="p-8">
                   <a href="#">
                       <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Funcional de Areia</h5>
                   </a>
