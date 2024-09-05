@@ -11,19 +11,19 @@ export default function Autoridade(){
           className="mg-6 grid grid-cols-3 gap-4 divide-y divide-gray-100  lg:grid-cols-3"
         >
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-md font-medium text-gray-500">Alunos Ativos</dt>
+            <dt className="order-last text-md md:font-medium text-gray-500">Alunos Ativos</dt>
       
             <dd className="text-3xl  font-extrabold text-yellow-500 md:text-5xl">+100</dd>
           </div>
       
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-md font-medium text-gray-500">Official Addons</dt>
+            <dt className="order-last text-md md:font-medium text-gray-500">Official Addons</dt>
       
             <dd className="text-3xl  font-extrabold text-yellow-500 md:text-5xl">24</dd>
           </div>
       
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-md font-medium text-gray-500">Total Addons</dt>
+            <dt className="order-last text-md md:font-medium text-gray-500">Total Addons</dt>
       
             <dd className="text-3xl font-extrabold text-yellow-500 md:text-5xl">86</dd>
           </div>
