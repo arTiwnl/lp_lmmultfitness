@@ -8,7 +8,7 @@ export default function GymPass (){
       
 
 <section className=" bg-yellow-400 text-white">
-  <div className="mx-auto max-w-screen-xl px-6 py-8 sm:px-6 sm:py-12 lg:px-40 lg:py-8">
+  <div className="mx-auto max-w-screen-xl px-8 py-8  sm:py-12 lg:px-40 lg:py-8">
     <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-2 lg:items-center lg:gap-x-">
       <div className="mx-auto max-w-lg ltr:sm:text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right">
         <h2 className=" text-gray-900 text-2xl font-bold sm:text-4xl">Somos Parceiros</h2>

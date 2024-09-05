@@ -5,7 +5,7 @@ export default function Alunos (){
         <section className="text-gray-900">
             <div class="text-gray-600  pt-8 d" id="reviews">
 
-<div class="max-w-7xl  mx-auto px-6 md:px-12 xl:px-6">
+<div class="max-w-7xl  mx-auto px-8 md:px-12 xl:px-6">
 
     <div class="mb-10 space-y-4 px-6 md:px-0">
         <h2 class="text-center text-2xl font-bold text-gray-800  md:text-4xl">

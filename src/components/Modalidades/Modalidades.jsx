@@ -6,7 +6,7 @@ export default function Modalidades (){
 
 
 <section>
-  <div className="max-w-screen-xl px-6 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-24 ">
+  <div className="max-w-screen-xl px-8 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-24 ">
     <div className="grid grid-cols-1 gap-y-8  lg:items-center lg:gap-x-16">
 
 
@@ -15,9 +15,9 @@ export default function Modalidades (){
 
 
 
-          <div class="mb-5 max-w-sm bg-white border border-gray-200 rounded-3xl shadow ">
+          <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
+                  <img class="rounded-t-3xl h-64 w-full object-cover" src="https://s2-ge.glbimg.com/e8PxOdhKUeWgQ0W4_IoNZaYWTiI=/0x0:1214x863/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/q/U/3Z6BF0RRGYZNPkAKYqgw/pilates-cadillac.jpg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">
@@ -34,9 +34,9 @@ export default function Modalidades (){
           </div>
 
 
-          <div class="mb-5 max-w-sm bg-white border border-gray-200 rounded-3xl  shadow ">
+          <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
+                  <img class="rounded-t-3xl h-64 object-cover" src="https://cdn.redealphafitness.com.br/not/001/int/000408.jpg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">
@@ -52,9 +52,9 @@ export default function Modalidades (){
               </div>
           </div>
 
-          <div class="max-w-sm bg-white border border-gray-200 rounded-3xl  shadow ">
+          <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-lg" src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510" alt="" />
+                  <img class="rounded-t-3xl h-64 object-cover" src="https://www.smartfit.com.br/news/wp-content/uploads/2020/11/quais-sao-os-beneficios-de-treinar-na-areia.jpg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">
