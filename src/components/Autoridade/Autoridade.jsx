@@ -8,24 +8,24 @@ export default function Autoridade(){
         
       
         <dl
-          className="mg-6 grid grid-cols-1 gap-4 divide-y divide-gray-100 sm:mt-8 sm:grid-cols-3 sm:divide-x sm:divide-y-0 lg:grid-cols-3"
+          className="mg-6 grid grid-cols-3 gap-4 divide-y divide-gray-100  lg:grid-cols-3"
         >
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-lg font-medium text-gray-500">Alunos Ativos</dt>
+            <dt className="order-last text-md font-medium text-gray-500">Alunos Ativos</dt>
       
-            <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">+ 100</dd>
+            <dd className="text-3xl  font-extrabold text-yellow-500 md:text-5xl">+100</dd>
           </div>
       
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-lg font-medium text-gray-500">Official Addons</dt>
+            <dt className="order-last text-md font-medium text-gray-500">Official Addons</dt>
       
-            <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">24</dd>
+            <dd className="text-3xl  font-extrabold text-yellow-500 md:text-5xl">24</dd>
           </div>
       
           <div className="flex flex-col px-4 py-8 text-center">
-            <dt className="order-last text-lg font-medium text-gray-500">Total Addons</dt>
+            <dt className="order-last text-md font-medium text-gray-500">Total Addons</dt>
       
-            <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">86</dd>
+            <dd className="text-3xl font-extrabold text-yellow-500 md:text-5xl">86</dd>
           </div>
       
           
