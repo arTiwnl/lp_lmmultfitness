@@ -2,24 +2,22 @@ export default function Alunos (){
     return (
         
 
-        <section className="text-gray-900">
-            <div class="text-gray-600  pt-8 d" id="reviews">
-
-<div class="max-w-7xl  mx-auto px-8 md:px-12 xl:px-6">
-
-    <div class="mb-10 space-y-4 px-6 md:px-0">
-        <h2 class="text-center text-2xl font-bold text-gray-800  md:text-4xl">
-            Nossos Alunos
-        </h2>
+ <section className="text-gray-900">
+<div class="text-gray-600  pt-8 d" id="reviews">
+    <div class=" mb-10 space-y-4 px-6 md:px-0">
+            <h2 class="text-center text-2xl font-bold text-gray-800  md:text-4xl">
+                Nossos Alunos
+            </h2>
     </div>
+    <div class=" max-w-7xl  mx-auto px-8 ">
 
 
-    <div class="md:columns-2 lg:columns-3 gap-8 space-y-8">
+        <div class=" gap-5 flex flex-nowrap flex-1  overflow-auto rounded-xl p-8 gap-4 space-y-8">
 
 
         <div
-            class="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
-            <div class="flex gap-4">
+            class="max-w-96 p-8 border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
+            <div class="flex  gap-4">
                 <img class="w-12 h-12 rounded-full" src="https://lh3.googleusercontent.com/a-/ALV-UjX1Xd797PkXbvfsK526FG8ECcFgaHsNJJxh45W5GoDy6uuSIUuQjA=w45-h45-p-rp-mo-br100" alt="user avatar" width="400" height="400" loading="lazy"/>
                 <div>
                     <h6 class="text-lg font-medium text-gray-700">Rayanna Maciel</h6>
@@ -27,13 +25,13 @@ export default function Alunos (){
                    
                 </div>
             </div>
-            <p class="mt-8">O Studio é incrível, os equipamentos são novos, o atendimento é excelente, a aula de Funcional de Studio é maravilhosa com um professor muito atencioso, pontual e que respeita os limites sabendo identificar a melhor maneira de explorar os avanços das atividades.
+            <p class="mt-8">O Studio é incrível, os equipamentos são novos, o atendimento é excelente, professor muito atencioso, pontual e que respeita os limites sabendo identificar a melhor maneira de explorar os avanços das atividades.
             </p>
         </div>
 
 
         <div
-            class="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white  shadow-2xl shadow-gray-600/10 ">
+            class="max-w-96   p-8 border border-gray-100 rounded-3xl bg-white  shadow-2xl shadow-gray-600/10 ">
             <div class="flex gap-4">
                 <img class="w-12 h-12 rounded-full" src="https://lh3.googleusercontent.com/a-/ALV-UjXRHWvev6SLcsO40cW1qXDFWl-QzZwItVJ5e6WCWOK9U-9K2xw9cA=w27-h27-p-rp-mo-br100" alt="user avatar" width="200" height="200" loading="lazy"/>
                 <div>
@@ -48,7 +46,7 @@ export default function Alunos (){
 
 
         <div
-            class="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white  shadow-2xl shadow-gray-600/10">
+            class="max-w-96  p-8 border border-gray-100 rounded-3xl bg-white  shadow-2xl shadow-gray-600/10">
             <div class="flex gap-4">
                 <img class="w-12 h-12 rounded-full" src="https://lh3.googleusercontent.com/a-/ALV-UjXIKITkjXZj56RlBB7LSJCGcBnhzGAvr0kybBfASefzZFcAdTbZmQ=w27-h27-p-rp-mo-ba5-br100" alt="user avatar" width="200" height="200" loading="lazy"/>
                 <div>
@@ -60,8 +58,11 @@ export default function Alunos (){
             </p>
         </div>
 
+        
 
 
+
+    
     </div>
 </div>
 </div>

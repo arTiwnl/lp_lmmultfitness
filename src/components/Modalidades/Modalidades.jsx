@@ -6,7 +6,7 @@ export default function Modalidades (){
 
 
 <section>
-  <div className="max-w-screen-xl px-8 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-24 ">
+  <div className="max-w-screen-xl px-8 py-22 mx-auto max-sm:py-18 sm:px-6 sm:py-16 ">
     <div className="grid grid-cols-1 gap-y-8  lg:items-center lg:gap-x-16">
 
 

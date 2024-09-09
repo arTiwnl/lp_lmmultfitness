@@ -16,6 +16,7 @@ import GymPass from './components/GymPass';
 
 import Modalidades from './components/Modalidades/Modalidades';
 import Alunos from './components/Alunos';
+import Local from './components/Local';
 
 
 export default function App() {
@@ -35,6 +36,9 @@ export default function App() {
     <GymPass />
     
     <Modalidades />
+    <Divider />
+    <Local />
+    <Divider />
     <Alunos />
 
     <Footer />
