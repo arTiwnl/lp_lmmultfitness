@@ -10,7 +10,7 @@ export default function QuemSomos (){
         <img
           alt=""
           src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/SobreNos.jpg"
-          className="w-128 inset-0 h-full object-cover"
+          className=" object-cover"
         />
       </div>
 
