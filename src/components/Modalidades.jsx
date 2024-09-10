@@ -1,6 +1,3 @@
-import Pilates from './../assets/images/Pilates.jpeg';
-import Areia from './../assets/images/Areia.jpeg';
-import Studio from './../assets/images/Studio.jpeg';
 
 export default function Modalidades (){
     return (
@@ -19,7 +16,7 @@ export default function Modalidades (){
 
           <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-3xl h-64 w-full object-cover" src={Pilates} alt="" />
+                  <img class="rounded-t-3xl h-64 w-full object-cover" src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/Pilates.jpeg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">
@@ -38,7 +35,7 @@ export default function Modalidades (){
 
           <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-3xl h-64  w-full object-cover" src={Studio} alt="" />
+                  <img class="rounded-t-3xl h-64  w-full object-cover" src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/Studio.jpeg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">
@@ -56,7 +53,7 @@ export default function Modalidades (){
 
           <div class="mb-5 max-w-sm border border-gray-100 rounded-3xl bg-white shadow-2xl shadow-gray-600/10 ">
               <a href="#">
-                  <img class="rounded-t-3xl h-64 w-full  object-cover" src={Areia} alt="" />
+                  <img class="rounded-t-3xl h-64 w-full  object-cover" src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/Areia.jpeg" alt="" />
               </a>
               <div class="p-8">
                   <a href="#">

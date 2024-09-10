@@ -1,4 +1,4 @@
-import SobreNos from './../assets/images/SobreNos.jpg';
+
 
 export default function QuemSomos (){
     return (
@@ -9,7 +9,7 @@ export default function QuemSomos (){
       <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-first lg:h-full">
         <img
           alt=""
-          src={SobreNos}
+          src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/SobreNos.jpg"
           className="w-128 inset-0 h-full object-cover"
         />
       </div>

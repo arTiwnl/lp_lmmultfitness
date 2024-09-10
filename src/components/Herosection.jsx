@@ -7,7 +7,7 @@ export default function Herosection(){
 
      
       <section className="relative w-full h-screen flex items-center justify-center overflow-hidden">
-      <div className="absolute inset-0 bg-center bg-cover bg-no-repeat " style={{ backgroundImage: `url("https://media.canva.com/v2/image-resize/format:JPG/height:1230/quality:92/uri:s3%3A%2F%2Fmedia-private.canva.com%2F0yO9M%2FMAGQUt0yO9M%2F1%2Fp.jpg/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAAGkwjZnUYQ9AqvX97Nkhel-5T0W6XcjRniSG1CkHe4VK&exp=1725953120&osig=AAAAAAAAAAAAAAAAAAAAAOpw4gIHykbheIJnTWG7CsANwKpYOYInciymjFDcNyGG&signer=media-rpc&x-canva-quality=screen_2x")` }}></div>
+      <div className="absolute inset-0 bg-center bg-cover bg-no-repeat " style={{ backgroundImage: `url("https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/BG.jpg")` }}></div>
       <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
         <div className="relative z-10 mx-auto max-w-3xl text-center">
           <h1

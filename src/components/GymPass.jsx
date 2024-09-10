@@ -24,14 +24,14 @@ export default function GymPass (){
           className="opacity-85 block rounded-xl border border-gray-900 p-4 shadow-sm hover:border-gray-500 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
           href="#"
         >
-              <img className="" src={TotalPassLogo} alt="Gympass Logo" />
+              <img className="" src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/gympass-white.png" alt="Gympass Logo" />
         </a>
 
         <a
           className="opacity-85 block rounded-xl border border-gray-900 p-4 shadow-sm hover:border-gray-500 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
           href="#"
         >
-              <img className="" src={GympassLogo} alt="TotalPass Logo" />
+              <img className="" src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/main/src/assets/images/totalpass-white.png" alt="TotalPass Logo" />
         </a>
 
        
