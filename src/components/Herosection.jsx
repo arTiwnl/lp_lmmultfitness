@@ -13,7 +13,7 @@ export default function Herosection(){
           <h1
             className="bg-gradient-to-r from-yellow-200  via-yellow-400 to-orange-400 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
           >
-           Lm Multfitness
+           LM Multfitness
     
         
           </h1>
@@ -27,15 +27,10 @@ export default function Herosection(){
               className="block w-full rounded border border-yellow-500 bg-yellow-400  px-12 py-3 text-sm font-medium text-black hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
               href="#"
             >
-              Get Started
+              Aula Experimental Gratuita!
             </a>
     
-            <a
-              className="block w-full rounded border border-yellow-400  px-12 py-3 text-sm font-medium text-white hover:bg-yellow-400  hover:text-black  focus:outline-none focus:ring active:bg-yellow-400  sm:w-auto"
-              href="#"
-            >
-              Learn More
-            </a>
+          
           </div>
         </div>
       </div>

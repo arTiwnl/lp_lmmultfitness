@@ -22,7 +22,7 @@ export default function Modalidades (){
                   <a href="#">
                       <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Pilates</h5>
                   </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Com foco em postura, flexibilidade e fortalecimento muscular, cada sessão é adaptada às necessidades individuais dos alunos.</p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-gray-800 bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
                       Saiba Mais
                       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -41,7 +41,8 @@ export default function Modalidades (){
                   <a href="#">
                       <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Funcional de Studio</h5>
                   </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Infraestrutura moderna e bem equipada, você encontrará suporte necessário para alcançar seus objetivos e maximizar resultados. 
+                  </p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-gray-800 bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
                       Saiba Mais
                       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -59,7 +60,7 @@ export default function Modalidades (){
                   <a href="#">
                       <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 ">Funcional de Areia</h5>
                   </a>
-                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+                  <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Nossa é um espaço motivador e dinâmico com equipamentos modernos, ideal para treinos que aprimoram força, resistência e agilidade.</p>
                   <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-gray-800 bg-yellow-400 rounded-lg hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
                       Saiba Mais
                       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">

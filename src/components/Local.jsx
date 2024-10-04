@@ -16,7 +16,7 @@ export default function Local (){
         <h2 className="text-2xl font-bold sm:text-4xl">Alugue nosso espaço        </h2>
 
         <p className="mt-4 text-gray-600">
-        Aqui na LM você pode alugar nosso espaço gourmet… bla bla bla bla 
+        Procurando um lugar especial para realizar o seu próximo evento? Nós oferecemos um espaço externo com área gourmet completa e uma quadra de areia, ideal para diferentes tipos de celebrações e confraternizações.
 
         </p>
 
@@ -29,12 +29,12 @@ export default function Local (){
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-5 text-indigo-700"
+            class="size-5 text-yellow-500"
           >
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span class="text-gray-700"> 10 users included </span>
+          <span class="text-gray-700"> Aniversários </span>
         </li>
 
         <li class="flex items-center gap-1">
@@ -44,12 +44,12 @@ export default function Local (){
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-5 text-indigo-700"
+            class="size-5 text-yellow-500"
           >
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span class="text-gray-700"> 2GB of storage </span>
+          <span class="text-gray-700"> Churrascos </span>
         </li>
 
         <li class="flex items-center gap-1">
@@ -59,12 +59,12 @@ export default function Local (){
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-5 text-indigo-700"
+            class="size-5 text-yellow-500"
           >
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span class="text-gray-700"> Email support </span>
+          <span class="text-gray-700"> Jogos de quadra </span>
         </li>
 
         <li class="flex items-center gap-1">
@@ -74,13 +74,16 @@ export default function Local (){
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-5 text-indigo-700"
+            class="size-5 text-yellow-500"
           >
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span class="text-gray-700"> Help center access </span>
+          <span class="text-gray-700"> Eventos corporativos </span>
         </li>
+
+      
+
       </ul>
 
         

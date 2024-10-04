@@ -16,9 +16,8 @@ export default function QuemSomos (){
         <h2 className="text-2xl font-bold sm:text-4xl">Sobre Nós</h2>
 
         <p className="mt-4 text-gray-600">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
-          eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
-          quidem quam repellat.
+        A LM Multfitness surgiu do sonho de Leonardo e Marciene de transformar a vida e a saúde das pessoas por meio da atividade física. Somos uma academia familiar que valoriza o acolhimento de nossos alunos. Nosso objetivo é criar um espaço onde cada pessoa possa se desenvolver, rodeada por uma comunidade apoiadora.
+
         </p>
 
        

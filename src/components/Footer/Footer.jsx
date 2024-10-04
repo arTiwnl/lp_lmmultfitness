@@ -10,7 +10,7 @@ return (
       <h2 className="text-2xl font-bold text-gray-900 sm:text-5xl">Aula Experimental Gratuita</h2>
 
       <p className="mx-auto mt-4 max-w-sm text-gray-500">
-        Clique no botão abaixo e agende sua aula experimental gratuita.
+      Clique no botão abaixo e tenha uma experiência completa da LM Multfitness.
       </p>
 
       <a
@@ -24,15 +24,8 @@ return (
     <div
       className="mt-16 border-t border-gray-100 pt-8 sm:flex sm:items-center sm:justify-between lg:mt-24"
     >
-      <ul className="flex flex-wrap justify-center gap-4 text-xs lg:justify-end">
-        <li>
-          <a href="#" className="text-gray-500 transition hover:opacity-75"> Terms & Conditions </a>
-        </li>
-
-      
-      </ul>
-
-      <ul className="mt-8 flex justify-center gap-6 sm:mt-0 lg:justify-end">
+  
+      <ul className="m-auto  flex justify-center gap-6 sm:mt-0 lg:justify-center">
         
 
         <li>
