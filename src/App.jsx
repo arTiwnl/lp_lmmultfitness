@@ -28,7 +28,7 @@ export default function App() {
    
     <Herosection />
   
-    <Autoridade />
+   
    
     <Divider />
     <QuemSomos />

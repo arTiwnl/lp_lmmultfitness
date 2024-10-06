@@ -7,13 +7,13 @@ export default function Local (){
       <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-first lg:h-full">
         <img
           alt=""
-          src="https://lh3.googleusercontent.com/p/AF1QipOrPK8Ur4JI38ONjyqH8GI_Vqewfy7uN9D2KFTG=s680-w680-h510"
-          className="absolute inset-0 h-full w-full object-cover"
+          src="https://raw.githubusercontent.com/arTiwnl/lp_lmmultfitness/refs/heads/main/src/assets/images/aluguel.jpeg"
+          className="absolute inset-0 h-full w-full object-cover "
         />
       </div>
 
       <div className="lg:py-24">
-        <h2 className="text-2xl font-bold sm:text-4xl">Alugue nosso espaço        </h2>
+        <h2 className="text-2xl font-bold sm:text-4xl">Alugue nosso espaço</h2>
 
         <p className="mt-4 text-gray-600">
         Procurando um lugar especial para realizar o seu próximo evento? Nós oferecemos um espaço externo com área gourmet completa e uma quadra de areia, ideal para diferentes tipos de celebrações e confraternizações.
